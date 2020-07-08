@@ -1,9 +1,9 @@
 # Tomato Pasta Recipe
 
-##Ingredients:
+## Ingredients:
  Tomato Sauce, Pasta, Oregano, Basil, Salt, Crushed Red Pepper, Water, Butter, Oil
 
-##Steps:
+## Steps:
 Boil Water for about 7 min
 Add Pasta, salt, and oil to Boiling Water. Boil until Pasta is Soft
 In a Pan add Butter, Oregano, Basil, and Crushed Red Pepper
